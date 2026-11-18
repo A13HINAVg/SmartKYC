@@ -1,0 +1,9 @@
+.env
+node_modules
+frontend/dist
+.venv
+.deps_ok
+storage/*
+!storage/.gitkeep
+*.db
+__pycache__
